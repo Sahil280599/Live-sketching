@@ -7,3 +7,12 @@ Designed live sketching program using OpenCV
 
 ![img sketchh2](https://user-images.githubusercontent.com/55251741/103464083-429cd500-4d57-11eb-83be-5d85bb30d6a0.PNG)
 
+<p align="center">Show some ❤️ by ⭐ this Repository</p>
+
+
+
+
+
+
+
+
